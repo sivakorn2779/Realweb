@@ -28,7 +28,7 @@
                     <small>Secondary Text</small>
                 </h1>
 
-                <!-- First -->
+                <!-- First Blogs-->
                 <h2>
                     <a href="#"><?php echo $post_title ?></a>
                 </h2>
